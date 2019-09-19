@@ -1,5 +1,5 @@
 <h1 align="center">
-    💡 LGHT ME UP 🐸   
+    💡 LIGHT ME UP 🐸   
 </h1>
 
 
