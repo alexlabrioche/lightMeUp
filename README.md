@@ -9,7 +9,8 @@
   - 🧺 Context
   - 💅 Styled Components
   
-  Mini game, using React states and props to updates components. The main goal is to lighten up the screen. 
+  Mini game, using React states and props to updates components. 
+  The main goal is to lighten up the screen. 
   When it's light turn it back down...
 
 <p align="center">
